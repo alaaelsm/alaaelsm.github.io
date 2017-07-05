@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/GitHub-Mark-120px-plus.png"
   # author will appear under the avatar (optional)
   author: "Alaa ElSaman"
   # tagline will appear under the title (optional)
